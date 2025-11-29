@@ -67,7 +67,7 @@ chmod +x peer_quality_scanner.py
 
 ## ▶️ Usage
 
-###Run the scanner:
+### Run the scanner:
 
 ```bash
 ./peer_quality_scanner.py
@@ -95,7 +95,7 @@ RPC_URL="http://YOUR_NODE_IP:9933" python3 peer_quality_scanner.py
 12D3KooWXd...  | score=41.7 | heightΔ=152 | rtt=210.5 ms
 ...
 ```
-JSON output:
+### JSON output:
 
 ```bash
 [
@@ -110,7 +110,7 @@ JSON output:
 ]
 ```
 
-📌 File Location
+## 📌 File Location
 ```bash
 /tools/peer_quality_scanner/peer_quality_scanner.py
 ```
