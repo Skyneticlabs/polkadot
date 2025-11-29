@@ -38,8 +38,8 @@ operators maintain predictable, high-quality connections.
 ✔ Measure latency variance  
 ✔ Build a deterministic, clean peer-set
 
-**Repo:**  
-https://github.com/Skyneticlabs/polkadot
+**Repository:** https://github.com/Skyneticlabs/polkadot  
+**Tool location:** [`tools/peer_quality_scanner`](https://github.com/Skyneticlabs/polkadot/tree/main/tools/peer_quality_scanner)
 
 ---
 
