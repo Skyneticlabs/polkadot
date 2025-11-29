@@ -38,7 +38,7 @@ operators maintain predictable, high-quality connections.
 ✔ Measure latency variance  
 ✔ Build a deterministic, clean peer-set
 
-**Repository:** https://github.com/Skyneticlabs/polkadot  
+**Repo:** https://github.com/Skyneticlabs/polkadot  
 **Tool location:** [`tools/peer_quality_scanner`](https://github.com/Skyneticlabs/polkadot/tree/main/tools/peer_quality_scanner)
 
 ---
@@ -91,8 +91,8 @@ Our automation scripts detect and repair:
 
 Designed for safe production environments with minimal operator intervention.
 
-**Repo:**  
-https://github.com/Skyneticlabs/polkadot
+**Repo:** https://github.com/Skyneticlabs/polkadot
+**Tool location:** [`tools/self_healing`](https://github.com/Skyneticlabs/polkadot/tree/main/tools/self_healing)
 
 ---
 
