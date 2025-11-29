@@ -91,7 +91,7 @@ Our automation scripts detect and repair:
 
 Designed for safe production environments with minimal operator intervention.
 
-**Repo:** https://github.com/Skyneticlabs/polkadot
+**Repo:** https://github.com/Skyneticlabs/polkadot  
 **Tool location:** [`tools/self_healing`](https://github.com/Skyneticlabs/polkadot/tree/main/tools/self_healing)
 
 ---
