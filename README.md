@@ -58,7 +58,8 @@ A checklist-driven auditor that inspects:
 Prevents common deployment mistakes and provides **pass/fail** before the node starts.
 
 **Docs:**  
-https://skyneticlabs.gitbook.io/docs/services/mainnet-networks/polkadot
+https://skyneticlabs.gitbook.io/docs/services/mainnet-networks/polkadot   
+**Tool location:** [`tools/node-startup-auditor`](https://github.com/Skyneticlabs/polkadot/tree/main/tools/node-startup-auditor)
 
 ---
 
